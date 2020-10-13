@@ -1,1 +1,1 @@
-web: gunicorn Knoledge_Hub.wsgi--log-file-
+web: gunicorn Knowledge_Hub.wsgi--log-file-
