@@ -6,6 +6,7 @@ from .forms import TopicForm, EntryForm
 
 
 def index(request):
+    # Home page for knowledge_Hubs
     return render(request, 'Knowledge_Hubs/index.html')
 
 
